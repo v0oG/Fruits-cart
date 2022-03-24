@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    width: 15%;
+}
+
+button {
+    margin-left: 34%;
+    height: 71px;
+}
+
+h1 {
+    margin-left: 35%;
+}
